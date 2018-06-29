@@ -1,0 +1,111 @@
+
+body {
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 20px;
+}
+h1 {
+	font-size: 40px;
+	color: #7A89C2;
+	margin-top: 5px;
+}
+
+h2 {
+	font-size: 25px;	
+	color: #7A89C2;
+}
+
+h3 {
+	font-size: 25px;
+	padding: 20px;
+	color: #7A89C2;
+}
+h4 {
+	font-size: 25px;	
+	color: white;
+}
+h5{
+	font-style: bold;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 50px;
+	color: #7A89C2;
+}
+p {
+	color: black;
+}
+
+a:hover { 
+	text-shadow: 0 0 5px #9BC4CB; 
+}
+#_link {
+	text-align: center;
+	background-color: #EFF6FC;
+	border-color: #EFF6FC;
+	color: black;
+	height: 50px;
+	width: 200px;
+	margin-top: 40px;
+	margin-bottom: 90px;
+	margin-left: 100px;
+
+
+}
+.form {
+	margin-left: 50px;
+}
+.mainbodytext{
+	font-size: 20px;
+	color: black;
+	border-color: black;
+}
+
+.navbar-default{
+	background-color: #EFF6FC;
+	border-color: #EFF6FC;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: grey;
+}
+.important-feedback {
+	font-size: 20px;
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	}
+
+.important-text {
+	font-style: bold;
+	font-size: 25px;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.important-text {
+	font-style: bold;
+	font-size: 25px;
+	padding-top: 50px;
+}
+
+.important-subhead {
+	font-style: bold;
+	font-size: 30px;
+	text-align: center;
+	
+}
+
+.img-circle {
+	border-radius: 50%;
+
+}
+
+.subjecthead{
+	font-size: 15px;
+	color: #7A89C2;
+}
+
+.jumbotron {
+	background-image: url("http://britainexplorer.com/wp-content/uploads/1970/01/cardiff-city-hall.jpg");
+	 background-repeat: no-repeat;
+    background-size: 100%;
+}
