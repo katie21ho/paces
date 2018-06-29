@@ -104,5 +104,6 @@ i {
 .jumbotron {
 	background-image: url("http://britainexplorer.com/wp-content/uploads/1970/01/cardiff-city-hall.jpg");
 	 background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
+    background-position: center;
 }
