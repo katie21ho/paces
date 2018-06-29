@@ -37,6 +37,13 @@ p {
 a:hover { 
 	text-shadow: 0 0 5px #9BC4CB; 
 }
+li {
+	text-decoration: none;
+}
+i {
+	color: red;
+	margin-right: 10px;
+}
 #_link {
 	text-align: center;
 	background-color: #EFF6FC;
@@ -46,13 +53,9 @@ a:hover {
 	width: 200px;
 	margin-top: 40px;
 	margin-bottom: 90px;
-	margin-left: 100px;
-
 
 }
-.form {
-	margin-left: 50px;
-}
+
 .mainbodytext{
 	font-size: 20px;
 	color: black;
@@ -78,12 +81,6 @@ a:hover {
 	font-style: bold;
 	font-size: 25px;
 	text-align: center;
-	padding-top: 50px;
-}
-
-.important-text {
-	font-style: bold;
-	font-size: 25px;
 	padding-top: 50px;
 }
 
