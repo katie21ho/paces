@@ -6,7 +6,7 @@ body {
 h1 {
 	font-size: 40px;
 	color: #7A89C2;
-	margin-top: 5px;
+	
 }
 
 h2 {
@@ -21,7 +21,7 @@ h3 {
 }
 h4 {
 	font-size: 25px;	
-	color: white;
+	color: #3F403F;
 }
 h5{
 	font-style: bold;
